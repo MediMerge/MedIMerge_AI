@@ -74,19 +74,4 @@ npm install gh-pages --save-dev
 npm run deploy
 ```
 
-## Contribution
-
-We welcome all developers and doctors to contribute to this repository by adding features or fixing bugs. The source codes will always be free and open source.
-
-**List Of Current Contributors:**
-
-https://github.com/LabinatorSolutions/medical-symptom-checker/graphs/contributors
-
-## Donations
-
-
-
-## License
-
-GNU GPLv3: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 
